@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE QUIZ [
+<!ENTITY xml1 SYSTEM "MultipleChoiceQuestion.xml">
+<!ENTITY xml2 SYSTEM "PairMatchingQuestion.xml">
+]>
+<quiz>
+&xml1;
+&xml2;
+</quiz>
+
